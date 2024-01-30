@@ -3,7 +3,7 @@
 
 ## Installation
 
-<p>해당 서버를 구동하기 위해서는 도커 와 도커 컴포즈가 설치되어 있어야 합니다.</p>
+<p>해당 서버를 구동하기 위해서는 도커가 설치되어 있어야 합니다.</p>
 
 <p>Docker(<a href="https://engineeringshw.blogspot.com/2022/03/docker-install-by-terminal-ubuntu-2004.html">링크</a>) : 24.0.7</p>
 
